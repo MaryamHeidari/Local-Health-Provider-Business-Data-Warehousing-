@@ -1,0 +1,21 @@
+bed_id,bed_code,bed_desc
+1,BU,Burn
+2,CC,CCU
+3,DE,Detox ICU
+4,IC,ICU
+5,MS,Med/Surg
+6,NE,NeoNatal ICU
+7,NU,Nursery
+8,NF,Nursing Facility
+9,OT,Other
+10,PD,Pediatric ICU
+11,PR,Premature ICU
+12,PS,Psychiatric
+13,PI,Psych ICU
+14,RH,Rehabilitation
+15,SI,SICU
+16,SN,Skilled Nursing
+17,SP,Special Care
+18,TO,Total
+19,TR,Trauma ICU
+20,DD,Developmental Disability
